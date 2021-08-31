@@ -15,3 +15,6 @@ Logic:
     }
 
 ?>
+
+output:
+1231236 is even Number
